@@ -3,10 +3,10 @@ Text-Based Adventure Game
 For this project you will be implementing an agent to play a simple text-based adventure game. The agent is required to move around a rectangular environment, collecting tools and avoiding (or removing) obstacles along the way. The obstacles and tools within the environment are represented as follows:
 
 Obstacles  Tools
-T 	tree      	a 	axe
-*	wall	d	dynamite
-~	water	B	boat
-g	gold
+T tree    a axe
+*	wall	  d	dynamite
+~	water	  B	boat
+          g	gold
 The agent will be represented by one of the characters ^, v, <  or  >, depending on which direction it is pointing. The agent is capable of the following instructions:
 
 L   turn left
