@@ -33,8 +33,7 @@ cd src
 javac *.java
 java Bounty -i s0.in
 You should then see something like this:
-
-~~~~~~~~~~~~~~~~~~~ 
+~~~~~~~~~~~~~~~~~~~
 ~~~~~~~~~~~~~~~~~~~
 ~~ a T T     T T B~
 ~~   ***     ****~~
